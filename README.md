@@ -1,4 +1,4 @@
 - 👋 Olá, sou  @GrasieleRocha
-- 👀 I’m interested in aprender programação
-- 🌱 I’m currently learning lógica de programação 
-- 📫 How to reach me - grasiele_rocha@hotmail.com
+- 👀 Estudante de programação 
+- 🌱 Apaixonando se por programar 
+- 📫 Meu e-mail grasiele_rocha@hotmail.com
