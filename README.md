@@ -1,7 +1,7 @@
 - 👋 Olá, sou  @GrasieleRocha
 - 👀 Estudante de programação 
 - 🌱 Apaixonando se por programar 
-- 📫 Meu e-mail grasiele_rocha@ 
+- 📫 e-mail grasiele_rocha@hotmail.com
 
 <div align="center">
   <a href="https://github.com/GrasieleRocha">
