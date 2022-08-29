@@ -1,6 +1,6 @@
 - 👋 Olá, sou  @GrasieleRocha
 - 📚 Estudante de programação 
-- 😍 Apaixonando se por programar 
+- 😍 Apaixonada por programar 
 - ✉ e-mail grasiele_rocha@hotmail.com
 
 <div align="center">
