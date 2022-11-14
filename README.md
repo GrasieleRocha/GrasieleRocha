@@ -1,9 +1,16 @@
 
-![avatar7-removebg-preview](https://user-images.githubusercontent.com/104076058/201751788-8f279564-6f7c-4777-9e1a-7fbbf471b6b9.png) Olá, sou Grasiele Rocha 
+![avatar7-removebg-preview](https://user-images.githubusercontent.com/104076058/201751788-8f279564-6f7c-4777-9e1a-7fbbf471b6b9.png) **Olá, Sou Grasiele Rocha**
 
-- 📚 Estudante de programação 
+<br>
+
+## Um pouquinho sobre mim...
+
+- 📚 Em transição de carreira 
 - 😍 Apaixonada por Desafios
+- 😍 No momento somente estudando programação
+- 😍 Amo animais
 
+<br>
 
 <div align="center">
 <a href="https://github.com/GrasieleRocha">
