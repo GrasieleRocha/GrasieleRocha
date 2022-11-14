@@ -1,25 +1,27 @@
-- 👋 Olá, sou  @GrasieleRocha
+
+![avatar7-removebg-preview](https://user-images.githubusercontent.com/104076058/201751788-8f279564-6f7c-4777-9e1a-7fbbf471b6b9.png) Olá, sou Grasiele Rocha 
+
 - 📚 Estudante de programação 
 - 😍 Apaixonada por Desafios
-- ✉ e-mail grasiele_rocha@hotmail.com
+
 
 <div align="center">
-  <a href="https://github.com/GrasieleRocha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GrasieleRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrasieleRocha&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/GrasieleRocha">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GrasieleRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrasieleRocha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
 
 ## Linguagens e Tecnologias
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="50"/>
+
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="40" width="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" width="50"/>
 
 </div>
  
