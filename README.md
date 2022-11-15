@@ -28,7 +28,7 @@
 <img src="https://user-images.githubusercontent.com/104076058/201915584-665a9e30-35b4-4744-ab91-c02ef044b81e.svg" height="40" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" width="50"/>
-
+<img src="https://user-images.githubusercontent.com/104076058/201917883-44480417-d18f-4434-b783-4f1a1d548edf.svg" height="40" width="50"/>
 
 
 </div>
