@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines= Welcome!+My+Name+is+Grasiele+Rocha;I'm+34+years+old;I'm+from+Brazil;Full+Stack+Developer;In+a+career+transition+process;I+like+challenges;I+love+programming;Be+Welcome!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+My+Name+is+Grasiele+Rocha;I'm+34+years+old;I'm+from+Brazil;Full+Stack+Developer;In+a+career+transition+process;I+like+challenges;I+love+programming;Be+Welcome!:%29)](https://git.io/typing-svg)
 
 
 ![avatar7-removebg-preview (2)_resized_resized](https://user-images.githubusercontent.com/104076058/201980625-08e6506e-cb07-481c-8ccd-b8efaa1d4879.png)
