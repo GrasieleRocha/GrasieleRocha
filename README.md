@@ -1,13 +1,13 @@
-![avatar7-removebg-preview (1)_resized (1)](https://user-images.githubusercontent.com/104076058/201909684-72ae55c8-528a-4b17-b42b-70266da72072.png)<h1>Olá, Sou Grasiele Rocha</h1>
+![avatar7-removebg-preview(1)resized(1)](https://user-images.githubusercontent.com/104076058/201909684-72ae55c8-528a-4b17-b42b-70266da72072.png)<h1>Olá, Sou Grasiele Rocha</h1>
 
 <br>
 
 ## Um pouquinho sobre mim...
 
-- 📚 Em transição de carreira 
-- 😍 Apaixonada por Desafios
+- 💼 ➡ 💻 Em transição de carreira 
+- 💞 Apaixonada por Desafios
 - 📚 No momento somente estudando programação
-- 😍 Amo animais
+- 🐶🐱 Amo animais
 
 <br>
 
