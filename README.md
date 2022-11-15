@@ -1,4 +1,4 @@
-![avatar7-removebg-preview(1)resized(1)](https://user-images.githubusercontent.com/104076058/201909684-72ae55c8-528a-4b17-b42b-70266da72072.png)<h1>Olá, Sou Grasiele Rocha</h1>
+![avatar7-removebg-preview (2)_resized_resized](https://user-images.githubusercontent.com/104076058/201980625-08e6506e-cb07-481c-8ccd-b8efaa1d4879.png)<h1>Olá, Sou Grasiele Rocha</h1>
 
 <br>
 
@@ -13,9 +13,9 @@
 
 <div align="center">
 <a href="https://github.com/GrasieleRocha">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GrasieleRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GrasieleRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrasieleRocha&layout=compact&langs_count=7&theme=dracula"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrasieleRocha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
