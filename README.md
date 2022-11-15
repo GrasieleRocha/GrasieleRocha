@@ -2,13 +2,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Grasiele+Rocha;I'm+34+years+old;I'm+from+Brazil;Course+Full+Stack;in+Career+transition;in+love+with+challenges;I+love+programming;Be+Welcome!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Grasiele+Rocha;I'm+34+years+old;I'm+from+Brazil;Course+Full+Stack;In+Career+transition;I+like+challenges;I+love+programming;Be+Welcome!:%29)](https://git.io/typing-svg)
 
 
 ![avatar7-removebg-preview (2)_resized_resized](https://user-images.githubusercontent.com/104076058/201980625-08e6506e-cb07-481c-8ccd-b8efaa1d4879.png)
 
 
-<br>
 
 <div align="center">
 <a href="https://github.com/GrasieleRocha">
@@ -18,7 +17,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-
+ 
 ## Main skills:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height="40" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="40" width="50"/>
@@ -46,3 +45,10 @@
 ![Snake animation](https://github.com/GrasieleRocha/GrasieleRocha/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GrasieleRocha}/count.svg" /></p> 
+<br>
+</div>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
