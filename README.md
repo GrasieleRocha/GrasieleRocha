@@ -5,16 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Grasiele+Rocha;I'm+34+years+old;I'm+from+Brazil;Course+Full+Stack;in+Career+transition;in+love+with+challenges;I+love+programming;Be+Welcome!:%29)](https://git.io/typing-svg)
 
 
-![avatar7-removebg-preview (2)_resized_resized](https://user-images.githubusercontent.com/104076058/201980625-08e6506e-cb07-481c-8ccd-b8efaa1d4879.png)<h1>Olá, Sou Grasiele Rocha</h1>
+![avatar7-removebg-preview (2)_resized_resized](https://user-images.githubusercontent.com/104076058/201980625-08e6506e-cb07-481c-8ccd-b8efaa1d4879.png)
 
-<br>
-
-## Um pouquinho sobre mim...
-
-- 💼 ➡ 💻 Em transição de carreira 
-- 💞 Apaixonada por Desafios
-- 📚 No momento somente estudando programação
-- 🐶🐱 Amo animais
 
 <br>
 
@@ -27,8 +19,7 @@
 
 <div style="display: inline_block"><br>
 
-## Linguagens e Tecnologias
-
+## Main skills:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height="40" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="40" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50"/>
@@ -38,10 +29,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" width="50"/>
 <img src="https://user-images.githubusercontent.com/104076058/201917883-44480417-d18f-4434-b783-4f1a1d548edf.svg" height="40" width="50"/>
 
-
+ ## Studying in this moment:
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" />
 </div>
  
  
+## contacts:
 <div> 
 <a href="https://www.linkedin.com/in/grasiele-miranda-rocha-pereira-8443431b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/grasielerochaweb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
