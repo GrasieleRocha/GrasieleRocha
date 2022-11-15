@@ -1,9 +1,4 @@
-
-<img src="![avatar7-removebg-preview](https://user-images.githubusercontent.com/104076058/201751788-8f279564-6f7c-4777-9e1a-7fbbf471b6b9.png)" height="180em"/> 
-
-<div align="center">
- <h1>Olá, Sou Grasiele Rocha</h1>
- </div>
+![avatar7-removebg-preview (1)_resized (1)](https://user-images.githubusercontent.com/104076058/201909684-72ae55c8-528a-4b17-b42b-70266da72072.png)<h1>Olá, Sou Grasiele Rocha</h1>
 
 <br>
 
@@ -43,6 +38,6 @@
 <a href = "mailto:grasielerochaweb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   
-  ![Snake animation](https://github.com/GrasieleRocha/GrasieleRocha/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GrasieleRocha/GrasieleRocha/blob/output/github-contribution-grid-snake.svg)
  
 </div>
