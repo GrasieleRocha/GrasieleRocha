@@ -1,6 +1,4 @@
 
-![avatar7-removebg-preview (2)_resized_resized (1)](https://user-images.githubusercontent.com/104076058/201981911-a1954d08-a6bc-456a-9892-7dbdac5f8e6c.png)<h2>Olá, Sou Grasiele Rocha</h2>
-
 ![avatar7-removebg-preview (2)_resized_resized](https://user-images.githubusercontent.com/104076058/201980625-08e6506e-cb07-481c-8ccd-b8efaa1d4879.png)<h1>Olá, Sou Grasiele Rocha</h1>
 
 <br>
