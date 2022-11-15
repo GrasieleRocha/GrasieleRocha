@@ -1,5 +1,7 @@
-
-![avatar7-removebg-preview](https://user-images.githubusercontent.com/104076058/201751788-8f279564-6f7c-4777-9e1a-7fbbf471b6b9.png)<h1>Olá, Sou Grasiele Rocha
+<div align="center">
+<img height="180em" src="![avatar7-removebg-preview](https://user-images.githubusercontent.com/104076058/201751788-8f279564-6f7c-4777-9e1a-7fbbf471b6b9.png)"/> 
+ <h1>Olá, Sou Grasiele Rocha</h1>
+ </div>
 
 <br>
 
