@@ -18,7 +18,7 @@
 
 <div style="display: inline_block"><br>
  
-## Main skills:
+# Main skills:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height="40" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="40" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50"/>
@@ -31,7 +31,7 @@
  <br>
  <br>
  
- ## Studying in this moment:
+ # Studying in this moment:
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" />
@@ -39,7 +39,7 @@
  
 <br>
  
-## Contacts:
+# Contacts:
 <div> 
 <a href="https://www.linkedin.com/in/grasiele-miranda-rocha-pereira-8443431b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/grasielerochaweb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
