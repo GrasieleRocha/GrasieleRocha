@@ -32,11 +32,8 @@
  
  ### Studying in this moment:
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="40" width="50" />
-          
-          
-          
-          
+<div>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" />
           
           
           
