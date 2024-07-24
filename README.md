@@ -1,57 +1,36 @@
+# 👋 Olá, eu sou Grasiele Rocha!
 
+Seja bem-vindo ao meu GitHub! Sou uma desenvolvedora full stack apaixonada por criar soluções inovadoras e eficientes. Com experiência em HTML, CSS, JavaScript e React, e conhecimentos em SQL, Flutter e Sankhya, estou sempre em busca de novos desafios e aprendizados.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+## 🚀 Minhas Stacks
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Grasiele+Rocha;I'm+36+years+old;I'm+from+Brazil;Front-End+Developer;In+a+career+transition+process;I+like+challenges;I+love+programming;Be+Welcome!:%29)](https://git.io/typing-svg)
+### **Front-end**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+### **Back-end**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
+### **Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<div align="center">
-<a href="https://github.com/GrasieleRocha">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GrasieleRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrasieleRocha&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### **ERP**
+![Sankhya](https://img.shields.io/badge/Sankhya-Basic-brightgreen?style=for-the-badge)
 
-<div style="display: inline_block"><br>
- 
-### Main skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height="40" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="40" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50"/>
-<img src="https://user-images.githubusercontent.com/104076058/201915584-665a9e30-35b4-4744-ab91-c02ef044b81e.svg" height="40" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" width="50"/>
-<img src="https://user-images.githubusercontent.com/104076058/201917883-44480417-d18f-4434-b783-4f1a1d548edf.svg" height="40" width="50"/>
+### **Banco de Dados**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
- <br>
- <br>
- 
- ### Studying in this moment:
- 
-<div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" />
-    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="50" />
-                    
-</div>
-  
-<br>
- 
-### Contacts:
-<div> 
-<a href="https://www.linkedin.com/in/grasielerocha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:grasielerochaweb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+### **Outros**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Snake animation](https://github.com/GrasieleRocha/GrasieleRocha/blob/output/github-contribution-grid-snake.svg)
+## 🎓 Formação Acadêmica
 
-</div>
- 
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GrasieleRocha}/count.svg" /></p> 
-<br>
-</div>
+- **Graduação em Administração de Empresas**
+- **Gestão de Tecnologia da Informação**
+- **Pós-graduação em Comunicação e Marketing em Mídias Digitais**
+- **Certificações em Desenvolvimento de Software** - Imã Tech
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+## 📞 Contatos
+
+<a href="https://www.linkedin.com/in/grasielerocha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:grasielerochaweb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+
