@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Grasiele Rocha!
 
-Seja bem-vindo ao meu GitHub! Sou uma desenvolvedora full stack apaixonada por criar soluções inovadoras e eficientes. Com experiência em HTML, CSS, JavaScript e React, e conhecimentos em SQL, Flutter e Sankhya, estou sempre em busca de novos desafios e aprendizados.
+Seja bem-vindo ao meu GitHub! Sou uma desenvolvedora full stack apaixonada por códigos e por buscar soluções eficazes. Com experiência em HTML, CSS, JavaScript e React, e conhecimentos em SQL, Flutter e Sankhya, estou sempre em busca de novos desafios e aprendizados.
 
 ## 🚀 Minhas Stacks
 
