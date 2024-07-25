@@ -24,8 +24,8 @@ Seja bem-vindo ao meu GitHub! Sou uma desenvolvedora full stack apaixonada por c
 
 ## 🎓 Formação Acadêmica
 
-- **Graduação em Administração de Empresas**
-- **Gestão de Tecnologia da Informação**
+- **Graduação em  Gestão da Tecnologia da Informação**,
+- **Administração de empresas**
 - **Pós-graduação em Comunicação e Marketing em Mídias Digitais**
 - **Certificações em Desenvolvimento de Software** - Imã Tech
 
